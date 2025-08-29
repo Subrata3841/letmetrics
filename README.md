@@ -10,7 +10,6 @@
 
 - [Overview](#overview)
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,7 +17,6 @@
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Support](#support)
 
 ## 🎯 Overview
 
@@ -44,16 +42,6 @@
 | **Error Handling** | Graceful error messages and loading states | ✅ |
 | **Scroll Management** | Smart scroll indicators and smooth transitions | ✅ |
 
-## 🎬 Demo
-
-### Screenshots
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](https://via.placeholder.com/400x300?text=Desktop+View) | ![Mobile](https://via.placeholder.com/200x300?text=Mobile+View) |
-
-### Live Demo
-[🔗 View Live Demo](https://your-demo-link.com) *(Replace with actual demo link)*
 
 ## 🛠️ Technologies Used
 
@@ -248,16 +236,6 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software...
 ```
 
-## 🆘 Support
-
-### Get Help
-
-| Method | Link | Response Time |
-|--------|------|---------------|
-| 📧 **Email** | support@letmetrics.com | 24-48 hours |
-| 🐛 **Issues** | [GitHub Issues](https://github.com/yourusername/letmetrics/issues) | 1-3 days |
-| 💬 **Discussions** | [GitHub Discussions](https://github.com/yourusername/letmetrics/discussions) | Community driven |
-
 ### FAQ
 
 <details>
@@ -284,7 +262,7 @@ A: Absolutely! Check our contributing guidelines and open an issue to discuss yo
 
 ### 🌟 Star this repo if you found it helpful!
 
-**Made with ❤️ by the LetMetrics Team**
+**Made with ❤️ by Subrata**
 
 [⬆ Back to Top](#-letmetrics)
 
